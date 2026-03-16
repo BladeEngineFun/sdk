@@ -1,0 +1,24 @@
+{
+  "name": "bladeengine",
+  "version": "1.0.0",
+  "description": "Universal execution layer for AI Agents",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "blockchain",
+    "execution-layer",
+    "web3"
+  ],
+  "author": "BladeEngine",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
