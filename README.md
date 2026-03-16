@@ -3,7 +3,7 @@
 **BLADE ENGINE** is a universal execution layer designed for AI Agents.  
 It enables agents to execute tasks, interact with decentralized infrastructure, and scale across blockchain and off-chain environments seamlessly.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : ByHH9AVJzyAPtn6DWHTK1RhVU6UB52TbWeJiMLUBpump
 ---
 
 ## 🚀 Overview
